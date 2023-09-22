@@ -12,12 +12,14 @@
 ### 🌱 C++ Projects
 #### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
 [Sky High Spyder](https://github.com/katherinejleeming/sky-high-spyder)
-
-
+- An asteroids style game depicting multiple essential C++ concepts for game programming.
+</br>
 
 [Space Shooter](https://github.com/katherinejleeming/SpaceShooter)
+- A simple 2D shooter evocative of Space Invaders - example of using structs to create game objects as well as arrays and vectors.
+</br>
+
 ![](https://github.com/katherinejleeming/katherinejleeming/blob/main/spaceshooter.gif)
-A simple 2D shooter evocative of Space Invaders - example of using structs to create game objects as well as arrays and vectors.
 
 ## 📫 Contact Me
 Feel free to reach out to me if you have any questions. You can contact me at:
