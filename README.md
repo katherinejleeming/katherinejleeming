@@ -16,7 +16,7 @@
 
 
 [Space Shooter](https://github.com/katherinejleeming/SpaceShooter)
-
+![](https://github.com/katherinejleeming/katherinejleeming/blob/main/spaceshooter.gif)
 A simple 2D shooter evocative of Space Invaders - example of using structs to create game objects as well as arrays and vectors.
 
 ## 📫 Contact Me
