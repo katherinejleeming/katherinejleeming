@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @katherinejleeming
-- 👀 I’m interested in front-end development and making things look nice.
 - 🌱 I’m currently learning C++ for game development.
 
 
