@@ -15,6 +15,8 @@
 - An asteroids style game depicting multiple essential C++ concepts for game programming.
 </br>
 
+![](https://github.com/katherinejleeming/katherinejleeming/blob/main/skyhighspyder.gif)
+
 [Space Shooter](https://github.com/katherinejleeming/SpaceShooter)
 - A simple 2D shooter evocative of Space Invaders - example of using structs to create game objects as well as arrays and vectors.
 </br>
