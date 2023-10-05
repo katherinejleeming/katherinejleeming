@@ -18,7 +18,7 @@
 ![](https://github.com/katherinejleeming/katherinejleeming/blob/main/skyhighspyder1.gif)
 
 [FishPod](https://github.com/katherinejleeming/fishpod-platformer)
-- A C++ port of the Game Maker's Companion game FishPod. (private assets - please request access)
+- A C++ port of the Game Maker's Companion game FishPod.
 </br>
 
 ![](https://github.com/katherinejleeming/katherinejleeming/blob/main/fishpoddraft.gif)
