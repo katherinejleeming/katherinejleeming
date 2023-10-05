@@ -12,19 +12,19 @@
 ### 🌱 C++ Projects
 #### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
 [Sky High Spyder](https://github.com/katherinejleeming/sky-high-spyder)
-- An asteroids style game depicting multiple essential C++ concepts for game programming.
+- An asteroids style 2D game depicting multiple essential C++ concepts for game programming.
 </br>
 
 ![](https://github.com/katherinejleeming/katherinejleeming/blob/main/skyhighspyder1.gif)
 
 [FishPod](https://github.com/katherinejleeming/fishpod-platformer)
-- A C++ port of the Game Maker's Companion game FishPod.
+- A C++ port of the Game Maker's Companion 2D platformer FishPod.
 </br>
 
 ![](https://github.com/katherinejleeming/katherinejleeming/blob/main/fishpoddraft.gif)
 
 [Space Shooter](https://github.com/katherinejleeming/SpaceShooter)
-- A simple 2D shooter evocative of Space Invaders - example of using structs to create game objects as well as arrays and vectors.
+- A simple 2D shooter a la Space Invaders - example of using structs to create game objects as well as arrays and vectors.
 </br>
 
 ![](https://github.com/katherinejleeming/katherinejleeming/blob/main/spaceshooternew.gif)
