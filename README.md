@@ -21,7 +21,7 @@
 - A C++ port of the Game Maker's Companion 2D platformer FishPod.
 </br>
 
-![](https://github.com/katherinejleeming/katherinejleeming/blob/main/fishpoddraft.gif)
+![](https://github.com/katherinejleeming/katherinejleeming/blob/main/fishpodcomplete.gif)
 
 [Space Shooter](https://github.com/katherinejleeming/SpaceShooter)
 - A simple 2D shooter a la Space Invaders - example of using structs to create game objects as well as arrays and vectors.
