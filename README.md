@@ -1,7 +1,7 @@
 # 👋 Hey there!
 - Hi, I’m @katherinejleeming or Katie for short!
 - I began my coding journey earlier this year starting in front end development before taking the leap to C++ for game development in the summer.
-- I work with the RAF Air Cadets software development team working on applications for the organisation focusing on UI/UX.
+- I work with the RAF Air Cadets software development team working on C++ & JavaScript applications for the organisation focusing on UI/UX.
 - I’m currently continuing to learn C++ for Games Programming with Sumo Digital's Playbuffer after completing their Diversity Internship Training Programme in 2023.
 - Below you'll find some examples of the work I undertook on the internship as well as in my spare time developing my game programming skills.
 
