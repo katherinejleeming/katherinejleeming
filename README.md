@@ -1,15 +1,15 @@
 # 👋 Hey there!
 - Hi, I’m @katherinejleeming or Katie for short!
-- I began my coding journey earlier this year starting in front end development before taking the leap to C++ for game development in the summer.
+- I am currently undertaking the CFG Degree +Masters in Full Stack Development with Activision Blizzard.
 - I work with the RAF Air Cadets software development team working on C++ & JavaScript applications for the organisation focusing on UI/UX.
 - I’m currently continuing to learn C++ for Games Programming with Sumo Digital's Playbuffer after completing their Diversity Internship Training Programme in 2023.
-- Below you'll find some examples of the work I undertook on the internship as well as in my spare time developing my game programming skills.
+- Below you'll find some examples of projects created during my internship/ degree.
 
 **Languages**
 - C++
 - HTML & CSS
 - JavaScript
-
+- Python
 
 ### 🌱 C++ Projects
 #### Games developed using [SumoDigital's Playbuffer](https://github.com/sumo-digital-academy/playbuffer), a single-header C++ library for making simple 2D games.
@@ -30,6 +30,10 @@
 </br>
 
 ![](https://github.com/katherinejleeming/katherinejleeming/blob/main/spaceshooternew.gif)
+
+## 🌱 CFG Degree Projects
+#### Projects developed during my 20 week CFG Degree course in multiple languages.
+
 
 ## 📫 Contact Me
 Feel free to reach out to me if you have any questions. You can contact me at:
