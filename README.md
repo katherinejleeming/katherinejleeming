@@ -10,6 +10,7 @@
 - HTML, CSS & JavaScript
   - (React, Bootstrap, Node)
 - TypeScript
+  - Angular
 - Python
 
 ### 🌱 C++ Projects
