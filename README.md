@@ -1,7 +1,7 @@
 # 👋 Hey there!
 - Hi, I’m @katherinejleeming or Katie for short!
 - I am currently undertaking the CFG Degree +Masters in Full Stack Development with Activision Blizzard.
-- I work with the RAF Air Cadets software development team working on C++ & JavaScript applications for the organisation focusing on UI/UX.
+- I volunteer as a Junior Developer within the RAF Air Cadets software team working on C++ & JavaScript applications
 - I’m currently continuing to learn C++ for Games Programming with Sumo Digital's Playbuffer after completing their Diversity Internship Training Programme in 2023.
 - Below you'll find some examples of projects created during my internship/ degree.
 
@@ -33,7 +33,6 @@
 
 ## 🌱 CFG Degree Projects
 #### Projects developed during my 20 week CFG Degree course in multiple languages.
-
 
 ## 📫 Contact Me
 Feel free to reach out to me if you have any questions. You can contact me at:
