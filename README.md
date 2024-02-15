@@ -7,8 +7,7 @@
 
 **Languages**
 - C++
-- HTML & CSS
-- JavaScript
+- HTML, CSS & JavaScript (React, Bootstrap, Node)
 - Python
 
 ### 🌱 C++ Projects
