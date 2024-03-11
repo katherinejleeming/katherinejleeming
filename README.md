@@ -36,6 +36,9 @@
 ## 🌱 CFG Degree Projects
 #### Projects developed during my 20 week CFG Degree course in multiple languages.
 
+[Balatro Randomizer](https://github.com/katherinejleeming/balatro-randomizer)
+- Balatro Deck & Stake Randomizer for players to ulitise during their runs. Balatro is a poker-inspired roguelike deck builder all about creating powerful synergies and winning big. There are many decks/ stakes (difficulties) to choose from - this website helps alleviate the trouble of choosing one.
+
 ## 📫 Contact Me
 Feel free to reach out to me if you have any questions. You can contact me at:
 
