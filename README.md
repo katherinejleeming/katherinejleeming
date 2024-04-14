@@ -8,7 +8,7 @@
 **Languages**
 - C++
 - HTML, CSS & JavaScript
-  - React, Bootstrap, Node
+  - React, Bootstrap, Node, Vue
 - TypeScript
   - Angular
 - Python
